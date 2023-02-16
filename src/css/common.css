@@ -16,3 +16,19 @@ img {
   display: block;
   max-width: 100%;
 }
+
+ul {
+  list-style: none;
+}
+
+.list__item {
+  margin-bottom: 10px;
+
+}
+.list__link {
+  font-size: 18px;
+  color: #586469;
+  font-weight: 800;
+  text-transform: uppercase;  
+}
+
