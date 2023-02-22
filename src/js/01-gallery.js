@@ -1,3 +1,13 @@
+/*
+ 1. Додай бібліотеку SimpleLightbox як залежність проекту, використовуючи npm (посилання на CDN з твоєї минулої роботи більше не потрібне).
+
+ 	// Описаний в документації
+import SimpleLightbox from "simplelightbox";
+	// Додатковий імпорт стилів
+import "simplelightbox/dist/simple-lightbox.min.css";
+ */
+
+
 import { galleryItems } from './gallery-items.js';
 
 // підключаємо бібліотеку SimpleLightbox
